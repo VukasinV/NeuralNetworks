@@ -8,7 +8,7 @@ namespace NerualNetworks.Brain
 {
     class Neuron
     {
-        List<Dendrite> Dendrites { get; set; }
+        public List<Dendrite> Dendrites { get; set; }
         public Pulse OutputPulse { get; set; }
         public double Weight;
 
@@ -32,6 +32,15 @@ namespace NerualNetworks.Brain
                 terminal.SynapticWeight = Weight;
             }
         }
+
+        public void UpdateWeights(double new_weights)
+        {
+            foreach (var terminal in Dendrites)
+            {
+                terminal.SynapticWeight = new_weights;
+            }
+        }
+
 
         private double Sum()
         {

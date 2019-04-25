@@ -1,0 +1,9 @@
+C:\Users\vvranic\source\repos\NerualNetworks\NerualNetworks\obj\Debug\NerualNetworks.csprojAssemblyReference.cache
+C:\Users\vvranic\source\repos\NerualNetworks\NerualNetworks\obj\Debug\NerualNetworks.csproj.CoreCompileInputs.cache
+C:\Users\vvranic\source\repos\NerualNetworks\NerualNetworks\bin\Debug\NerualNetworks.exe.config
+C:\Users\vvranic\source\repos\NerualNetworks\NerualNetworks\bin\Debug\NerualNetworks.exe
+C:\Users\vvranic\source\repos\NerualNetworks\NerualNetworks\bin\Debug\NerualNetworks.pdb
+C:\Users\vvranic\source\repos\NerualNetworks\NerualNetworks\bin\Debug\ConsoleTableExt.dll
+C:\Users\vvranic\source\repos\NerualNetworks\NerualNetworks\obj\Debug\NerualNetworks.csproj.CopyComplete
+C:\Users\vvranic\source\repos\NerualNetworks\NerualNetworks\obj\Debug\NerualNetworks.exe
+C:\Users\vvranic\source\repos\NerualNetworks\NerualNetworks\obj\Debug\NerualNetworks.pdb
