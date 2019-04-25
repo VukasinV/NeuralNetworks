@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NerualNetworks", "NerualNetworks\NerualNetworks.csproj", "{03777DF4-D9BE-4C8B-B4FB-5AB10059770B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03777DF4-D9BE-4C8B-B4FB-5AB10059770B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03777DF4-D9BE-4C8B-B4FB-5AB10059770B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03777DF4-D9BE-4C8B-B4FB-5AB10059770B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03777DF4-D9BE-4C8B-B4FB-5AB10059770B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F2112E9-9121-449D-BA13-D65A0AF47E64}
+	EndGlobalSection
+EndGlobal
